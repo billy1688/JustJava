@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">只是 Java</string>
+    <string name="hint">请输入您的姓名</string>
+    <string name="toppings">浇头</string>
+    <string name="whippedcream">鲜奶油</string>
+    <string name="quantity">数量</string>
+    <string name="name">名称：</string>
+    <string name="coffee">咖啡</string>
+</resources>
